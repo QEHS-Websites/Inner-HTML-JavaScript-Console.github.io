@@ -10,7 +10,7 @@ https://github.com/Evanator05/Javascript-Debug-Console
 ---
 # Instructions
 
-To the bottom of you `<body>`, add the following HTML ... **BEFORE** any other `<script type="text/javascript"></script>`
+To the bottom of you `<body>`, add the following HTML ... **BEFORE** any other `<script src="[NAME].js"></script>`
 ```html
 <script type="text/javascript" src="https://evanator05.github.io/Javascript-Debug-Console/console.js"></script>
 ```
