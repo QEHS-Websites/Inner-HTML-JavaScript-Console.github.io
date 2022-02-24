@@ -7,6 +7,8 @@ A simple debug console for building HTML5 in HTML ... meant for separate files.
 
 https://github.com/Evanator05/Javascript-Debug-Console
 
+Check the timestamp in his GitHub as my copy is simply that. He will update his to help all students who have added this to his code.
+
 ---
 # Instructions
 
