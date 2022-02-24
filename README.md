@@ -6,6 +6,6 @@ A simple debug console for building HTML5 in HTML ... meant for separate files.
 # Instructions
 
 To the bottom of you `<body>`, add the following HTML ...
-```HTML5
+```html
 <script type="text/javascript" src="https://evanator05.github.io/Javascript-Debug-Console/console.js"></script>
 ```
