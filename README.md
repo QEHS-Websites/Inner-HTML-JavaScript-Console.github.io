@@ -23,7 +23,7 @@ To the bottom of you `<body>`, add the following HTML ... **BEFORE** any other `
 
 To the bottom of you `<body>`, add the following HTML ... **BEFORE** any other `<script src="[NAME].js"></script>`
 ```html
-<script type="text/javascript" src="https://evanator05.github.io/Javascript-Debug-Console/console.js"></script>
+<script type="text/javascript" src="https://qehs-websites.github.io/Inner-HTML-JavaScript-Console.github.io/console.js"></script>
 ```
 
 ---
