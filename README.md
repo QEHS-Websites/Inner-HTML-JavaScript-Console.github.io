@@ -10,7 +10,10 @@ https://github.com/Evanator05/Javascript-Debug-Console
 Check the timestamp in his GitHub as my copy is simply that. He will update his to help all students who have added this to his code.
 
 ---
+
 # Instructions
+
+**Note:** use the alternate instruction if this fails and notify me. I can contact this author.
 
 To the bottom of you `<body>`, add the following HTML ... **BEFORE** any other `<script src="[NAME].js"></script>`
 ```html
